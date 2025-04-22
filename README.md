@@ -7,7 +7,7 @@ Check out our Language Guide in the documentation:
 👉 (soon)
 Everything you need to know is right there.
 
-## When translating, please remember to:
+### When translating, please remember to:
 - Make sure your translation is accurate and natural
 - Keep the meaning and context clear
 - Follow the required formatting!
