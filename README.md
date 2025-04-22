@@ -12,6 +12,7 @@ Everything you need to know is right there.
 - Keep the meaning and context clear
 - Follow the required formatting!
 - Don't translate emojis indicated by `<:Emoji_Name:ID>` — those emojis must remain in English. If you see any curly brackets like `{ }` with text inside (e.g., `{new_name}`), you should leave them untouched as well.
+- Translations should always be based on the default language found in `languages/en_us.json`. This file may receive updates or changes at any time, so make sure to join our support server to stay informed. 
 
 Want to introduce a new language that isn’t listed yet? No problem! Just follow the “Adding a new language” section in the guide (soon).
 
