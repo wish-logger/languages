@@ -1,6 +1,7 @@
 {
     "Settings": {
         "Path": "./language/en_us.json",
+        "ID": 0,
         "Default": true,
         "Active": true
     }
