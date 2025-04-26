@@ -28,8 +28,11 @@ function getHighestID() {
 
 function correctSettings() {
     try {
-        const languageFiles = fs.readdirSync(languagesDir)
-            .filter(file => file.endsWith('.json'));
+        const languageFolders = fs.readdirSync(languagesDir)
+            .filter(item => {
+                const itemPath = path.join(languagesDir, item);
+                return fs.statSync(itemPath).isDirectory();
+            });
         
         const settingsFiles = fs.readdirSync(settingsDir)
             .filter(file => file.endsWith('.json'));
@@ -38,23 +41,22 @@ function correctSettings() {
         
         let nextID = getHighestID() + 1;
         
-        languageFiles.forEach(languageFile => {
-            const baseName = path.basename(languageFile, '.json');
-            
-            if (!settingsBasenames.includes(baseName)) {
-                console.log(`Creating missing settings file for ${languageFile}...`);
+        languageFolders.forEach(langFolder => {
+            if (!settingsBasenames.includes(langFolder)) {
+                console.log(`Creating missing settings file for ${langFolder}...`);
+                
                 // Since the settings file is created by the corector
                 // we need to set the Active flag to false
                 const newSettings = {
                     "Settings": {
-                        "Path": `./languages/${baseName}.json`,
+                        "Path": `./languages/${langFolder}`,
                         "ID": nextID++,
                         "Default": false,
                         "Active": false
                     }
                 };
                 
-                const settingsFilePath = path.join(settingsDir, `${baseName}.json`);
+                const settingsFilePath = path.join(settingsDir, `${langFolder}.json`);
                 fs.writeFileSync(
                     settingsFilePath, 
                     JSON.stringify(newSettings, null, 4), 

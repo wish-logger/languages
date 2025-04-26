@@ -1,0 +1,22 @@
+{
+    "Unknown": "Nieznany",
+    "Seconds": "Sekunda",
+    "Minutes": "Minuta",
+    "Hours": "Godzina",
+    "Days": "Dzień",
+    "ThreadDeletedTitle": "{emoji} Wątek Usunięty",
+    "ThreadDeletedBy": "**{threadname}** został usunięty przez {moderator}",
+    "Channel": "Kanał",
+    "TodayAt": "Dzisiaj o",
+    "ThreadCreatedTitle": "{emoji} Wątek Utworzony",
+    "ThreadCreatedBy": "**{threadname}** został utworzony przez {moderator}",
+    "ThreadModifiedTitle": "{emoji} Wątek Zaktualizowany",
+    "ThreadModifiedBy": "**{threadname}** został zmodyfikowany przez {moderator}",
+    "Name": "Nazwa",
+    "Archived": "Zarchiwizowany",
+    "Locked": "Zablokowany",
+    "Slowmode": "Tryb powolny",
+    "AutomaticArchive": "Automatyczne Archiwizowanie",
+    "Enabled": "Włączony",
+    "Disabled": "Wyłączony"
+}
