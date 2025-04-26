@@ -11,10 +11,10 @@ Everything you need to know is right there.
 - Make sure your translation is accurate and natural
 - Keep the meaning and context clear
 - Follow the required formatting!
-- Don't translate emojis indicated by `<:Emoji_Name:ID>` — those emojis must remain in English. If you see any curly brackets like `{ }` with text inside (e.g., `{new_name}`), you should leave them untouched as well.
+- If you see any curly brackets like `{ }` with text inside (e.g., `{new_name}`), you should leave them untouched.
 - Translations should always be based on the default language found in the `/languages/en_us` folder. This folder structure may receive updates or changes at any time, so make sure to join our support server to stay informed.
 - Each language has its own folder containing multiple JSON files organized by category (base, generic, slash).
-- Don't worry about `/settings/en_us.json` or any other settings file when creating a new language. Just make sure the folder name is correct — for example, if you're creating a __Brazilian__ Portuguese translation, the folder should be named `br` in the languages directory.
+- Don't worry about settings files when creating a new language. Just make sure the folder name is correct — for example, if you're creating a __Brazilian__ Portuguese translation, the folder should be named `br` in the languages directory.
 
 ### Folder Structure
 For each language, please follow the folder structure below:
