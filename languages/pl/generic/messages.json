@@ -44,7 +44,7 @@
     "FileTooLargeToReupload": "{attachment.name} ({fileSizeMB} MB) - Za duży, aby przesłać ponownie",
     "AttachmentDeletedTitle": "{emoji} Załącznik Usunięty",
     "File": "Plik",
-    "AFTER_EDIT": "Po edycji",
+    "AfterEdit": "Po edycji",
     "EditedMessageTitle": "{emoji} Wiadomość Edytowana",
     "PinnedMessageTitle": "{emoji} Wiadomość Przypięta",
     "UnpinnedMessageTitle": "{emoji} Wiadomość Odpięta",
