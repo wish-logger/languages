@@ -1,0 +1,6 @@
+{
+    "UnableToFetchMessage": "Невозможно загрузить сообщения.",
+    "NoReactions": "Это сообщение не имеет реакции.",
+    "AnErrorOccurredWhileRetrievingTheReactions": "Произошла ошибка при загрузке реакций.",
+    "NoReactionsFound": "Не найдено реакций."
+}

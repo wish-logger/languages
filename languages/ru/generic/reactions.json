@@ -1,0 +1,14 @@
+{
+    "ReactionRemovedTitle": "{emoji} Реакция удалена",
+    "ManyReactionRemovedTitle": "{emoji} Несколько реакции удалено",
+    "RemovedCustomReaction": "{user} удалил нестандартную [реакцию](https://cdn.discordapp.com/emojis/{emoji.id}.{emoji.animated}) из [сообщения]({message.url})",
+    "RemovedReaction": "{user} удалил реакцию из [сообщении]({message.url})",
+    "Emoji": "Emoji",
+    "TodayAt": "сегодня в",
+    "Unknown": "Неизвестный",
+    "Reactions": "Реакции",
+    "ModeratorRemoved": "{moderator} удалил {reactions.size} реакции из [сообщении]({message.url})",
+    "ReactionsRemoved": "Реакции удалены",
+    "ReactionRemoved": "Реакция удалена",
+    "UnknownEmojis": "Неизвестные emoji"
+}

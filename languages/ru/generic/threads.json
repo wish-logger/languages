@@ -1,0 +1,22 @@
+{
+    "Unknown": "Неизвестный",
+    "Seconds": "Секунда",
+    "Minutes": "Минута",
+    "Hours": "Час",
+    "Days": "День",
+    "ThreadDeletedTitle": "{emoji} Ветка удалена",
+    "ThreadDeletedBy": "**{threadname}** Ветка удалена {moderator}",
+    "Channel": "Канал",
+    "TodayAt": "Сегодня в",
+    "ThreadCreatedTitle": "{emoji} Ветка создана",
+    "ThreadCreatedBy": "**{threadname}** был создан {moderator}",
+    "ThreadModifiedTitle": "{emoji} Ветка изменена",
+    "ThreadModifiedBy": "**{threadname}** была изменена {moderator}",
+    "Name": "название",
+    "Archived": "Архивирован",
+    "Locked": "Заблокирован",
+    "Slowmode": "Медленный режим",
+    "AutomaticArchive": "Автоархив",
+    "Enabled": "Включен",
+    "Disabled": "Выключен"
+}
