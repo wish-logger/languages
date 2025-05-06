@@ -1,0 +1,12 @@
+{
+    "PermissionDenied": "<emoji> Nie masz permisji do użycia tej komendy.",
+    "NoMatchingFoundError": "<emoji> Nie znaleziono pasującego wyniku.",
+    "WarnTitle": "<emoji> Członek został ostrzeżony",
+    "WarnChannelNotSetTitle": "<emoji> Kanał ostrzeżeń nie jest ustawiony",
+    "WarningsFor": "Ostrzeżenia dla",
+    "WarnDeletedTitle": "<emoji> Ostrzeżenie członka usunięte",
+    "ChangeWarnTitle": "<emoji> Ostrzeżenie członka zmienione",
+    "TransferWarnTitle": "<emoji> Ostrzeżenie członka przeniesione",
+    "SpecUserOrCaseNotFoundErr": "użytkownik lub ostrzeżenie nie zostało znalezione.",
+    "WarnsFor": "Ostrzeżenia dla"
+}

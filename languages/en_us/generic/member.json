@@ -3,7 +3,7 @@
     "AvatarChanged": "{member} changed their server avatar",
     "TodayAt": "Today at",
     "ModeratorUse": "Moderator, use /reason {reason_id} to set new reason",
-    "BannedUserTitle": "{emoji} MemberBanned",
+    "BannedUserTitle": "{emoji} Member Banned",
     "BannedUser": "{moderator} banned {user}",
     "Reason": "Reason",
     "BotAddedTitle": "{emoji} Bot Authorized",

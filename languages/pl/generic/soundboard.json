@@ -1,0 +1,17 @@
+{
+    "TodayAt": "Dzisiaj o",
+    "Unknown": "Nieznany",
+    "RelatedEmoji": "Powiązana Emotka",
+    "SoundBoardSoundAdded": "{emoji} Dodano dźwięk",
+    "SoundBoardSoundRemoved": "{emoji} Usunięto dźwięk",
+    "SoundBoardSoundUpdated": "{emoji} Zaktualizowano dźwięk",
+    "SoundAdded": "Dźwięk {sound} z głośnością {volume} został dodany przez {moderator}",
+    "SoundAddedWithoutModerator": "Dźwięk {sound} z głośnością {volume} został dodany",
+    "SoundRemoved": "Dźwięk {sound} został usunięty przez {moderator}",
+    "SoundRemovedWithoutModerator": "Dźwięk {sound} został usunięty",
+    "UpdatedSound": "Dźwięk {sound} został zaktualizowany przez {moderator}",
+    "SoundUpdatedWithoutModerator": "Dźwięk {sound} został zaktualizowany",
+    "Name": "Nazwa",
+    "Volume": "Głośność",
+    "Emoji": "Emotka"
+}

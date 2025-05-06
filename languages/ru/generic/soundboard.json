@@ -1,0 +1,17 @@
+{
+    "TodayAt": "Сегодня в",
+    "Unknown": "Неизвестный",
+    "RelatedEmoji": "Связанный эмодзи",
+    "SoundBoardSoundAdded": "{emoji} Dodano звук",
+    "SoundBoardSoundRemoved": "{emoji} Удалено звук",
+    "SoundBoardSoundUpdated": "{emoji} Обновленный звук",
+    "SoundAdded": "Звук {sound} с громкостью {volume} был добавлен {moderator}",
+    "SoundAddedWithoutModerator": "Звук {sound} с громкостью {volume} был добавлен",
+    "SoundRemoved": "Звук {sound} был удален {moderator}",
+    "SoundRemovedWithoutModerator": "Звук {sound} был удалён",
+    "UpdatedSound": "Звук {sound} был обновлен {moderator}",
+    "SoundUpdatedWithoutModerator": "Звук {sound} был обновлён",
+    "Name": "название",
+    "Volume": "громкость",
+    "Emoji": "эмодзи"
+}

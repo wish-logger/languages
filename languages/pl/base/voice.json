@@ -14,6 +14,8 @@
     "DeafenedTitle": "{emoji} Ogłuszony Na Kanale",
     "UndeafenedTitle": "{emoji} Odgłuszony Na Kanale",
     "ServerMuted": "wyciszony na serwerze",
+    "Reason": "Powód",
+    "Unknown": "nieznany",
     "ServerUnmuted": "odciszony na serwerze",
     "ServerDeafened": "ogłuszony na serwerze",
     "ServerUndeafened": "odgłuszony na serwerze",

@@ -1,0 +1,12 @@
+{
+    "PermissionDenied": "<emoji> У вас нет прав на использование этой команды.",
+    "NoMatchingFoundError": "<emoji> Не найдено подходящего результата.",
+    "WarnTitle": "<emoji> Член был предупреждён",
+    "WarnChannelNotSetTitle": "<emoji> Канал предупреждения не настроен",
+    "WarningsFor": "Предупреждения для",
+    "WarnDeletedTitle": "<emoji> Предупреждение пользователя удалено",
+    "ChangeWarnTitle": "<emoji> Предупреждение пользователя изменено",
+    "TransferWarnTitle": "<emoji> Ostrzeżenie członka przeniesione",
+    "SpecUserOrCaseNotFoundErr": "пользователь или предупреждение не найдены.",
+    "WarnsFor": "Предупреждения для"
+}
