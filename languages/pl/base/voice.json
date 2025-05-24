@@ -20,6 +20,8 @@
     "ServerDeafened": "ogłuszony na serwerze",
     "ServerUndeafened": "odgłuszony na serwerze",
     "MutedServer": "{member} został {actionText} w {channel}",
+    "MutedServerModerator": "{member} został {actionText} w {channel} przez {moderator}",
+    "MutedServerSelf": "{member} został {actionText} przez samego siebie w {channel}",
     "StreamingStartedTitle": "{emoji} Rozpoczęto Transmisję",
     "StreamingEndedTitle": "{emoji} Zakończono Transmisję",
     "Streaming": "{member} {status} transmisję w {channel}",
