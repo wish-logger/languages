@@ -70,5 +70,7 @@
     "WebhookChannelChangedTitle": "{emoji} Изменение канала вебхука",
     "WebhookMoved": "перемещенный",
     "FromChannel": "Из канала",
-    "ToChannel": "В канал"
+    "ToChannel": "В канал",
+    "PermissionChanges": "Изменения разрешений",
+    "PermissionRemovedChannel": "Разрешения были удалены"
 }

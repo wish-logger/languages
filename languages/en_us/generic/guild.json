@@ -78,5 +78,12 @@
     "EventUserJoinedTitle": "{emoji} Scheduled Event User Joined",
     "EventUserLeftTitle": "{emoji} Scheduled Event User Left",
     "EventUserLeft": "{member} stopped observing the scheduled event {event}",
-    "EventUserJoined": "{member} started observing the scheduled event {event}"
+    "EventUserJoined": "{member} started observing the scheduled event {event}",
+    "Disabled": "Disabled",
+    "Enabled": "Enabled",
+    "True": "True",
+    "False": "False",
+    "NewPermissions": "New Permissions",
+    "DangerousPermissions": "Role has been given dangerous permissions",
+    "Warning": "**WARNING!**"
 }

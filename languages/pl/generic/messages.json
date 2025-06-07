@@ -61,5 +61,6 @@
     "DeletedSticker": "Usunięta naklejka",
     "DeletedAttachment": "Usunięty załącznik",
     "MassMessageDeletedTitle": "{emoji} Wiele Wiadomości Usuniętych",
-    "MultipleMessagesDeleted": "Wiele Wiadomości Usuniętych w {channelName}"
+    "MultipleMessagesDeleted": "Wiele Wiadomości Usuniętych w {channelName}",
+    "Executor": "Wykonawca"
 }

@@ -70,5 +70,7 @@
     "WebhookChannelChangedTitle": "{emoji} Zmieniono Kanał Webhooka",
     "WebhookMoved": "przeniesiony",
     "FromChannel": "Z Kanału",
-    "ToChannel": "Do Kanału"
+    "ToChannel": "Do Kanału",
+    "PermissionChanges": "Zmiany uprawnień",
+    "PermissionRemovedChannel": "Uprawnienia zostały usunięte"
 }

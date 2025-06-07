@@ -78,5 +78,12 @@
     "EventUserJoinedTitle": "{emoji} Użytkownik Dołączył do Zaplanowanego Wydarzenia",
     "EventUserLeftTitle": "{emoji} Użytkownik Opuścił Zaplanowane Wydarzenie",
     "EventUserLeft": "{member} przestał obserwować zaplanowane wydarzenie {event}",
-    "EventUserJoined": "{member} zaczął obserwować zaplanowane wydarzenie {event}"
+    "EventUserJoined": "{member} zaczął obserwować zaplanowane wydarzenie {event}",
+    "Disabled": "Wyłączone",
+    "Enabled": "Włączone",
+    "True": "Prawda",
+    "False": "Fałsz",
+    "NewPermissions": "Nowe Uprawnienia",
+    "DangerousPermissions": "Rola otrzymała niebezpieczne uprawnienia",
+    "Warning": "**UWAGA!**"
 }

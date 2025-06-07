@@ -61,5 +61,6 @@
     "DeletedSticker": "Удалена наклейка",
     "DeletedAttachment": "Удалено прикрепление",
     "MassMessageDeletedTitle": "{emoji} Удаление нескольких сообщений",
-    "MultipleMessagesDeleted": "Удаление нескольких сообщений в {channelName}"
+    "MultipleMessagesDeleted": "Удаление нескольких сообщений в {channelName}",
+    "Executor": "Выполнитель"
 }

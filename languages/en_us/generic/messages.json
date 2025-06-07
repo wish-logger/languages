@@ -61,5 +61,6 @@
     "DeletedSticker": "Deleted sticker",
     "DeletedAttachment": "Deleted attachment",
     "MassMessageDeletedTitle": "{emoji} Multiple Messages Deleted",
-    "MultipleMessagesDeleted": "Multiple Messages Deleted in {channelName}"
+    "MultipleMessagesDeleted": "Multiple Messages Deleted in {channelName}",
+    "Executor": "Executor"
 }

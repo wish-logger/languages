@@ -78,5 +78,12 @@
     "EventUserJoinedTitle": "{emoji} Пользователь Присоединился к Запланированному событию",
     "EventUserLeftTitle": "{emoji} Пользователь покинул Запланированное событие",
     "EventUserLeft": "{member} прекратил наблюдение за запланированным событием {event}",
-    "EventUserJoined": "{member} начал наблюдать за запланированным событием {event}"
+    "EventUserJoined": "{member} начал наблюдать за запланированным событием {event}",
+    "Disabled": "Выключено",
+    "Enabled": "Включено",
+    "True": "Да",
+    "False": "Нет",
+    "NewPermissions": "Новые разрешения",
+    "DangerousPermissions": "Роль была предоставлена опасные разрешения",
+    "Warning": "**ВНИМАНИЕ!**"
 }
