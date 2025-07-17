@@ -21,7 +21,8 @@
     "PollCreatedTitle": "{emoji} Utworzono Ankietę",
     "PollCreated": "`{poll}` została utworzona przez {user}",
     "PollEndedTitle": "{emoji} Zakończono Ankietę",
-    "PollEnded": "`{poll}` została zakończona przez {user}",
+    "PollEnded": "Ankieta `{poll}` została zakończona przez {user}",
+    "PollEndedAutomatically": "Ankieta `{poll}` zakończyła się.",
     "Question": "Pytanie",
     "Options": "Opcje",
     "Expires": "Wygasa",
@@ -35,6 +36,6 @@
     "MessageID": "ID Wiadomości",
     "NoneEmojiResult": "A:",
     "Results": "Wyniki",
-    "Finalized": "Sfinalizowane",
+    "Finalized": "Sfinalizowano",
     "NoVotes": "Brak Głosów"
 }

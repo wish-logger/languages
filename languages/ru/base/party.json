@@ -20,8 +20,9 @@
     "Circle": "◯",
     "PollCreatedTitle": "{emoji} Был создан опрос",
     "PollCreated": "`{poll}` был создан {user}",
-    "PollEndedTitle": "{emoji} Опрос завершён",
-    "PollEnded": "`{poll}` был завершён {user}",
+    "PollEndedTitle": "{emoji} Опрос завершен",
+    "PollEnded": "Опрос `{poll}` был завершен {user}",
+    "PollEndedAutomatically": "Опрос `{poll}` завершился.",
     "Question": "Вопрос",
     "Options": "Опции",
     "Expires": "Истекает",
@@ -34,7 +35,7 @@
     "CreatedAt": "Создано в",
     "MessageID": "ID сообщения",
     "NoneEmojiResult": "A:",
-    "Results": "Результаты",
+    "Results": "Полученные результаты",
     "Finalized": "Завершено",
     "NoVotes": "Нет голосов"
 }
