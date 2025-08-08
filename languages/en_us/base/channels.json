@@ -72,5 +72,17 @@
     "FromChannel": "From Channel",
     "ToChannel": "To Channel",
     "PermissionChanges": "Permission Changes",
-    "PermissionRemovedChannel": "Permissions have been removed"
+    "PermissionRemovedChannel": "Permissions have been removed",
+    "PermissionsRemovedTitle": "{emoji} {type} Channel Permissions Removed",
+    "PermissionsUpdatedTitle": "{emoji} {type} Channel Permissions Updated",
+    "PermissionsAddedTitle": "{emoji} {type} Channel Permissions Added",
+    "PermissionsSyncedTitle": "{emoji} {type} Channel Permissions Synced",
+    "PermissionsRemoved": "{moderator} removed {pluarl} for {target} in {channel}",
+    "PermissionsUpdated": "{moderator} updated {pluarl} for {target} in {channel}",
+    "PermissionsAdded": "{moderator} added {pluarl} for {target} in {channel}",
+    "PermissionsSynced": "{moderator} synced permissions with {category} in {channel}",
+    "NewPermissionSingular": "New Permission:",
+    "NewPermissionPlural": "New Permissions:",
+    "PermissionWordSingular": "permission",
+    "PermissionWordPlural": "permissions"
 }

@@ -72,5 +72,17 @@
     "FromChannel": "Z Kanału",
     "ToChannel": "Do Kanału",
     "PermissionChanges": "Zmiany uprawnień",
-    "PermissionRemovedChannel": "Uprawnienia zostały usunięte"
+    "PermissionRemovedChannel": "Uprawnienia zostały usunięte",
+    "PermissionsRemovedTitle": "{emoji} Uprawnienia kanału {type} zostały usunięte",
+    "PermissionsUpdatedTitle": "{emoji} Uprawnienia kanału {type} zostały zaktualizowane",
+    "PermissionsAddedTitle": "{emoji} Uprawnienia kanału {type} zostały dodane",
+    "PermissionsSyncedTitle": "{emoji} Uprawnienia kanału {type} zostały zsynchronizowane",
+    "PermissionsRemoved": "{moderator} usunął {pluarl} dla {target} w {channel}",
+    "PermissionsUpdated": "{moderator} zaktualizował {pluarl} dla {target} w {channel}",
+    "PermissionsAdded": "{moderator} dodał {pluarl} dla {target} w {channel}",
+    "PermissionsSynced": "{moderator} zsynchronizował uprawnienia z {category} w {channel}",
+    "NewPermissionSingular": "Nowe uprawnienie:",
+    "NewPermissionPlural": "Nowe uprawnienia:",
+    "PermissionWordSingular": "uprawnienie",
+    "PermissionWordPlural": "uprawnienia"
 }

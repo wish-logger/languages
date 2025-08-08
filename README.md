@@ -4,7 +4,7 @@ This is the place where you can help make Wish more accessible around the world 
 
 ## How can I get started?
 Check out our Language Guide in the documentation:
-👉 (soon)
+👉 [here!](https://docs.wishlogger.xyz/languages/start)
 Everything you need to know is right there.
 
 ### When translating, please remember to:
