@@ -84,5 +84,11 @@
     "NewPermissionSingular": "Nowe uprawnienie:",
     "NewPermissionPlural": "Nowe uprawnienia:",
     "PermissionWordSingular": "uprawnienie",
-    "PermissionWordPlural": "uprawnienia"
+    "PermissionWordPlural": "uprawnienia",
+    "ChannelTextType": "Tekstowego",
+    "ChannelVoiceType": "Głosowego",
+    "ChannelStageType": "Scenicznego",
+    "ChannelAnnouncementType": "Ogłoszeń",
+    "ChannelForumType": "Forum",
+    "CategoryType": "Kategorii"
 }

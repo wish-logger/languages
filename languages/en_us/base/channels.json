@@ -84,5 +84,11 @@
     "NewPermissionSingular": "New Permission:",
     "NewPermissionPlural": "New Permissions:",
     "PermissionWordSingular": "permission",
-    "PermissionWordPlural": "permissions"
+    "PermissionWordPlural": "permissions",
+    "ChannelTextType": "Text",
+    "ChannelVoiceType": "Voice",
+    "ChannelStageType": "Stage",
+    "ChannelAnnouncementType": "Announcement",
+    "ChannelForumType": "Forum",
+    "CategoryType": "Category"
 }
